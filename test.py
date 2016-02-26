@@ -3,3 +3,4 @@ git is a free software
 first add
 second add
 new line for test branch
+git merge is fast and safe
